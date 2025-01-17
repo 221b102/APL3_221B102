@@ -22,7 +22,7 @@ public class Main
 	    this.name=name;
 	}
 	int getAge(){
-	    return this.age;
+	    return this.age; //ashish
 	}
 	String getName(){
 	    return this.name;
